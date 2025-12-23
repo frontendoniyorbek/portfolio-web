@@ -260,8 +260,8 @@ body {
 	line-height: 150%;
 }
 
-.feature__title4,
-.feature__inner {
+.featured__title4,
+.featured__inner {
 	font-family: Manrope;
 	font-weight: 600;
 	font-size: 16px;
@@ -273,19 +273,19 @@ body {
 	color: var(--title-color);
 }
 
-.feature__inner {
+.featured__inner {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 48px;
 }
 
-.feature__social {
+.featured__social {
 	display: flex;
 	align-items: center;
 	gap: 24px;
 }
 
-.feature__social a {
+.featured__social a {
 	display: flex;
 	align-items: center;
 	font-family: Manrope;
